@@ -20,23 +20,14 @@
 
 | Fase | Minggu | Phase Lead | Tanggung Jawab Utama Coverage |
 |---|---|---|---|
-| Discover | 1 | [Brian Ash-
-Shiddiq Saputra] | Koordinasi pembentukan tim, norma, peluncuran |
-| Frame | 2 | [Fikajun Wolek
-Arifin] | Koordinasi observasi & wawancara lapangan |
-| Define | 3–4 | [Cavin Gusti
-Ramadhani] | Koordinasi kebutuhan & metrik sukses |
-| Design | 5–7 | [Satrio
-Gemintang
-Mahameru] | Koordinasi desain solusi & sesi critik |
-| Build | 9–12 | [Brian Ash-
-Shiddiq Saputra] | Koordinasi pengkodean prototipe |
-| Test | 11–12 | [Fikajun Wolek
-Arifin] | Koordinasi pengujian & validasi |
-| Communicate | 14–15 | [Muhammad
-Subhan Zulfikar] | Koordinasi penyusunan presentasi publik |
-| Reflect | 13–16 | [Cavin Gusti
-Ramadhani] | Koordinasi refleksi, portfolio & passport |
+| Discover | 1 | [Brian Ash-Shiddiq Saputra] | Koordinasi pembentukan tim, norma, peluncuran |
+| Frame | 2 | [Fikajun Wolek Arifin] | Koordinasi observasi & wawancara lapangan |
+| Define | 3–4 | [Cavin Gusti Ramadhani] | Koordinasi kebutuhan & metrik sukses |
+| Design | 5–7 | [Satrio Gemintang Mahameru] | Koordinasi desain solusi & sesi critik |
+| Build | 9–12 | [Brian Ash-Shiddiq Saputra] | Koordinasi pengkodean prototipe |
+| Test | 11–12 | [Fikajun Wolek Arifin] | Koordinasi pengujian & validasi |
+| Communicate | 14–15 | [Muhammad Subhan Zulfikar] | Koordinasi penyusunan presentasi publik |
+| Reflect | 13–16 | [Cavin Gusti Ramadhani] | Koordinasi refleksi, portfolio & passport |
 
 *Catatan: jadwal ini dapat disesuaikan sepanjang semester, dicatat di E5 (Meeting Log). Tim 3 orang: dua fase terakhir dikelola bersama.*
 
