@@ -4,20 +4,20 @@
 
 | Nama | NIM | Phase Lead untuk Fase |
 |---|---|---|
-| [Nama 1] | [NIM] | Discover, Build |
-| [Nama 2] | [NIM] | Frame, Test |
-| [Nama 3] | [NIM] | Define, Communicate |
-| [Nama 4] | [NIM] | Design, Reflect |
-| [Nama 5] | [NIM] | Design, Reflect |
+| [Brian Ash-Shiddiq Saputra] | [2600016083] | Discover, Build |
+| [Fikajun Wolek Arifin] | [2638016029] | Frame, Test |
+| [Cavin Gusti Ramadhani] | [2600016064] | Define, Reflect |
+| [Satrio Gemintang Mahameru] | [2600016061] | Design |
+| [Muhammad Subhan Zulfikar] | [2600016057] | Communicate |
 
 > **Aturan**: Tim memakai **rotating phase lead** — tidak ada peran permanen. Setiap anggota memimpin minimal satu fase. Jadwal fase awal ditetapkan di WS01 dan dapat disesuaikan sepanjang semester.
 
 ## Objek Studi
 
-- **Nama Unit Usaha**: [contoh: Kantin Kampus "Makmur"]
-- **Lokasi**: [contoh: Gedung A, Lantai 1]
-- **Pemilik**: [nama, kontak]
-- **Jenis Usaha**: [contoh: Kantin / Warung / Koperasi]
+- **Nama Unit Usaha**: [Brilian Laundry]
+- **Lokasi**: [Jl. Ki Ageng Pemanahan, Kec. Banguntapan, Kabupaten Bantul]
+- **Pemilik**: [Bu Erna, 0882007602228]
+- **Jenis Usaha**: [Laundry]
 
 ## Driving Question
 
