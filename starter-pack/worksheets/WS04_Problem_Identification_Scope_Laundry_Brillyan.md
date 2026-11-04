@@ -100,9 +100,9 @@ _Catatan validitas data: Dokumen ini disesuaikan dengan rekaman wawancara Laundr
 
 ### **B. Tanda Tangan Pengesahan Phase Lead 2**
 
-Disusun oleh Phase Lead 2 (Frame): Fikajun Wolek Arifin — NIM: \[isi NIM\]
+Disusun oleh Phase Lead 2 (Frame): Fikajun Wolek Arifin — NIM: \[2638016029\]
 
-Tanggal Penyusunan: \[isi tanggal\]
+Tanggal Penyusunan: \[29/10/2026\]
 
 ```
 Tanda Tangan Phase Lead 2: ____________________
