@@ -47,8 +47,8 @@
 | Indikator | Nilai/Baseline | Sumber Data | Tanggal |
 |---|---|---|---|
 | [Rata-rata waktu transaksi] | [5 menit] | [observasi] | [14/10/2026] |
-| [Durasi rekap penjualan harian] | [20-30 menit] | [observasi] | [14/10/2026] |
-| [Jumlah pelanggan pada jam sibuk] | [3-5 orang] | [Observasi] | [14/10/2026] |
+| [Durasi rekap penjualan harian] | [10-30 menit] | [observasi] | [14/10/2026] |
+| [Jumlah pelanggan pada jam sibuk] | [10-20 orang] | [Observasi] | [14/10/2026] |
 | [Frekuensi kesalahan pencatatan] | [Tidak menentu, belum terukur] | [Observasi] | [14/10/2026] |
 
 ## 5. Pernyataan Kebutuhan Awal (ringkasan ke D2)
