@@ -28,18 +28,18 @@ Related Files:
 *Dipenuhi dari hasil WS02–WS04.*
 
 ## Problem Brief
-**Project**: Digital Problem Framing Mini Project — [Nama Unit Usaha]
-**Tim**: [Nama anggota] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
+**Project**: Digital Problem Framing Mini Project — [Laundry]
+**Tim**: [Fikajun wolek arifin, Muhammad subhan zulfikar, Cavin gusti ramadhani, Brian Ash-Shidiq Saputra, Satrio gemintang mahameru] | **Tanggal**: [11/11/2026] | **Versi**: [v1.0]
 
 ### 1. User / Context
-- Nama unit usaha / organisasi: [nama]
-- Jenis usaha / layanan: [mis. kantin kampus, warung, koperasi]
-- Lokasi: [lokasi]
-- Deskripsi operasional: [apa yang dilakukan, siapa pengguna, kapan beroperasi]
-- Narahubung / pemilik: [nama, jabatan, kontak]
+- Nama unit usaha / organisasi: [brilian laundry]
+- Jenis usaha / layanan: [Laundry]
+- Lokasi: [Jl. Ki Ageng Pemanahan, Kragilan, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta]
+- Deskripsi operasional: [Pencucian pakaian, Rata-rata Mahasiswa, Sejak akhir tahun 2023 ]
+- Narahubung / pemilik: [Bu Erna, Pemilik, 0882007602228]
 
 ### 2. Observed Situation (Situasi yang Diamati)
-- Fenomena yang diamati di lapangan: [...]
+- Fenomena yang diamati di lapangan: [Dari observasi, problem utamanya sulit membedakan pakain pelaggan yang jatuh saat di jemur]
 
 ### 3. Evidence (Bukti)
 - Data kuantitatif pendukung (indikator, nilai/baseline, sumber data, tanggal):
@@ -52,20 +52,20 @@ Related Files:
 - Pemahaman mengapa masalah ini terjadi: [...]
 
 ### 5. Problem Statement
-- Pernyataan masalah yang jelas (bukan solusi): [...]
-- Pihak yang terdampak & keparahan: [...]
+- Pernyataan masalah yang jelas (bukan solusi): [Brilian Laundry belum memiliki cara untuk menjaga identitas pakaian tiap pelanggan selama proses penjemuran. Ketika pakaian jatuh , pemilik laundry tidak dapat memastikan pemiliknya, sehingga muncul risiko pakain tertukar]
+- Pihak yang terdampak & keparahan: [Pelanggan (pakain tertukar atau hilang), Pemilik (ganti rugi, keluhan)]
 
 ### 6. Impact
-- Dampak bila masalah tidak diselesaikan: [...]
+- Dampak bila masalah tidak diselesaikan: [Kelulahn dan tuntutan ganti rugi meningkat, kepercayaan pelanggan menurun, dan usaha berisiko kehilangan pelanggan tetap]
 
 ### 7. Scope
 - Diselesaikan dalam proyek ini: [...]
 
 ### 8. Non-Scope
-- Tidak diselesaikan (dan alasan): [...]
+- Tidak diselesaikan (dan alasan): [Pembayaran online dan antar-jemput (di luar proses utama)]
 
 ### 9. Success Metric
-- Metrik yang menunjukkan masalah teratasi: [...]
+- Metrik yang menunjukkan masalah teratasi: [Keluhan terkait pakain tertukar]
 
 ### 10. Daftar Rujukan / Bukti
 - [Observasi lapangan tanggal ...], [Wawancara pemilik tanggal ...], [Dokumen pendukung]
