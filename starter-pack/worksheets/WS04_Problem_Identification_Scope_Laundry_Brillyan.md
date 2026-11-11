@@ -33,7 +33,7 @@ Berdasarkan analisis di atas, rumuskan **Problem Statement** utama dalam 1–2 p
 _Petunjuk_: Hindari mendefinisikan masalah sebagai _"Mitra belum memiliki aplikasi Python/komputer"_. Definisikan dari hambatan bisnis nyata mitra!
 
 Rumusan Problem Statement Kelompok:  
-"Brilian Laundry menjalankan pencatatan pesanan, data pelanggan, berat laundry, serta data laundry masuk dan keluar secara manual. Identifikasi pakaian terutama mengandalkan nama pada kantong dan ingatan, sementara jumlah pakaian belum selalu dicatat secara konsisten. Dalam wawancara juga disebutkan bahwa pakaian atau kaus kaki pernah hilang/terlepas dari jemuran. Selain itu, pencatatan keuangan usaha masih sederhana dan belum terperinci. Kondisi tersebut menunjukkan kebutuhan untuk meningkatkan keterlacakan pesanan dan pakaian serta kerapian pencatatan operasional dan keuangan melalui sistem informasi sederhana. Waktu transaksi, frekuensi kejadian kehilangan, dan durasi rekap belum diukur, sehingga diperlukan observasi lanjutan untuk menetapkan baseline kuantitatif."
+"Brilian Laundry masih menggunakan pencatatan manual berbasis nota kertas tanpa merinci jumlah pakaian saat penerimaan dan mengandalkan ingatan untuk pengenalan barang, sehingga memicu kendala verifikasi saat terjadi komplain pakaian hilang atau tertukar. Untuk mengatasinya, diperlukan sistem pencatatan penerimaan yang lebih terstruktur dan digital agar rincian pakaian tercatat akurat, pelacakan barang lebih cepat, dan risiko kesalahan operasional dapat diminimalkan, dengan penataan pembukuan keuangan harian sebagai fitur pendukung sesuai kebutuhan mitra."
 
 ## **4\. Menetapkan Batasan Sistem (System Boundary / Scope Alignment)**
 
