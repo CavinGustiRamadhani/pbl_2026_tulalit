@@ -53,7 +53,7 @@ Untuk mencegah terjadinya pembengkakan fitur (_Scope Creep_) yang membahayakan p
 
 │ 3. Pelacakan status laundry serta rekap data operasional harian. │
 
-│ │
+│  4. fitur pencatatan identitas dan jumlah pakaian. │
 
 │─────────────────────────────────────────── │
 
@@ -74,9 +74,10 @@ Untuk mencegah terjadinya pembengkakan fitur (_Scope Creep_) yang membahayakan p
 | 1   | Input Pesanan dan Data Pelanggan                            | IN-SCOPE                                 | Kelayakan operasional: membantu menyimpan informasi pelanggan dan pesanan secara lebih terstruktur dibandingkan catatan manual.               |
 | 2   | Pencatatan Berat, Jenis Layanan, dan Status Laundry         | IN-SCOPE                                 | Kelayakan teknis: data dan status pesanan dapat dikelola menggunakan program sederhana; rincian kebutuhan perlu dikonfirmasi dengan mitra.    |
 | 3   | Rekap Data Operasional Harian                               | IN-SCOPE                                 | Kelayakan ekonomi/operasional: membantu pemilik meninjau data pesanan dan catatan usaha dengan lebih teratur.                                 |
-| 4   | Pembayaran Online / Payment Gateway                         | OUT-OF-SCOPE                             | Tidak menjadi kebutuhan yang teridentifikasi dalam wawancara dan dapat menambah kompleksitas proyek.                                          |
-| 5   | Penggajian, Multi-Cabang, dan Pemesanan Otomatis ke Pemasok | OUT-OF-SCOPE                             | Tidak sesuai dengan kebutuhan yang teridentifikasi saat wawancara awal; usaha dikelola oleh keluarga dan kebutuhan tersebut belum dinyatakan. |
-
+| 4  | Pencatatan identitas dan jumlah pakaian  |
+IN-SCOPE       | Kelakayan Operasional: membantu pemilik mengidentifikasi dan memeriksa jumlah serta jenis pakaian milik setiap pelanggan secara lebih terstruktur sehingga meningkatkan keterlacakan pakaian. | 
+| 5   | Pembayaran Online / Payment Gateway                         | OUT-OF-SCOPE                             | Tidak menjadi kebutuhan yang teridentifikasi dalam wawancara dan dapat menambah kompleksitas proyek.                                          |
+| 6   | Penggajian, Multi-Cabang, dan Pemesanan Otomatis ke Pemasok | OUT-OF-SCOPE                             | Tidak sesuai dengan kebutuhan yang teridentifikasi saat wawancara awal; usaha dikelola oleh keluarga dan kebutuhan tersebut belum dinyatakan. |
 ## **5\. Target Metrik Keberhasilan Solusi (To-Be Targets)**
 
 Target berikut merupakan usulan awal berdasarkan hasil wawancara, bukan hasil pengukuran. Validasi target setelah baseline waktu transaksi, kelengkapan pencatatan, dan durasi rekap dikumpulkan melalui observasi.
