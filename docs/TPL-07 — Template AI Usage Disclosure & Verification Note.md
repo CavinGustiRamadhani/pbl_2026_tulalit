@@ -14,7 +14,6 @@ _Dipenuhi dari hasil WS15._
 |D2|...|...|...|
 |D3|...|...|...|
 |D4|...|...|...|
-
 |WS1|ChatGPT| |  |
 |WS2|...|...|...|
 |WS3|ChatGPT|Membantu mengevaluasi hasil observasi dan wawancara, memperjelas deskripsi proses bisnis berjalan (As-Is), mengidentifikasi temuan lapangan, serta menyusun jawaban refleksi.|Memperbaiki deskripsi berdasarkan kondisi aktual mitra, yaitu pencatatan nama pelanggan menggunakan nota atau kertas, belum adanya pendataan jumlah pakaian per potong, penggunaan ingatan untuk mengenali pakaian, serta pemisahan pakaian berdasarkan pelanggan. Memperbaiki informasi fasilitas operasional agar sesuai dengan hasil wawancara.|
