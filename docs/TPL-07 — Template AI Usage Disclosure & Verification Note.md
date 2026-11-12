@@ -1,45 +1,76 @@
-# **TPL-07 — Template AI Usage Disclosure & Verification Note (Supporting Evidence)** 
+# **TPL-07 — Template AI Usage Disclosure & Verification Note**
 
-_Dipenuhi dari hasil WS15._ 
+> **Kategori**: Supporting Evidence (Lampiran Wajib Portfolio)  
+> **Mata Kuliah**: Integrasi Lintas MK (Konsep SI, Dasar Pemrograman, Kom. Profesional, B. Inggris)  
+> **Sub-CPMK / SFIA**: S-11.1, S-12.1 (Introduce) \| SFIA Generic Level 1–2 (*Ethical AI Literacy*)  
+> **Sumber Worksheet**: Dipenuhi bertahap pada setiap fase (*WS01–WS16*) dan dikonsolidasikan pada `WS15`  
+> **Petunjuk**: Lampirkan dokumen ini pada setiap pengumpulan tugas (*Core Artifacts D1–D4*). AI digunakan sebagai *co-pilot* (augmentasi). Seluruh klaim wajib diverifikasi secara manual.
 
-# **AI Usage Disclosure & Verification Note** 
+---
 
-**Project** : Brilian Laundry | **Tim** : Tulalit | **Tanggal** : [11/11/2026] 
+## **Header Transparansi AI**
 
-## **1. Daftar Penggunaan AI** 
+* **Nama Proyek**: Digital Problem Framing & Solution Prototype —Tini Laundry dan Kos Putri  
+* **Nama Kelompok**: Tim Tulalit
+* **Anggota Tim**:  
+  1. Muhammad Subhan Zulfikar / 2600016057  
+  2. Satrio Gemintang Mahameru / 2600016061  
+  3. Cavin Gusti Ramadhani / 2600016064  
+  4. Fikajun Wolek Arifin / 2638016029  
+  5. Brian Ash-Shidiq Saputra / 2600016083
+* **Tanggal Pelaporan**: 12/10/2026
 
-|**Artefak**|**Tool AI**|**Bagian yang Dibantu**|**Modifikasi yang**<br>**Dilakukan**|
-|---|---|---|---|
-|D1|ChatGPT|Membantu menyusun<br>dan merapikan Problem<br>Brief, terutama<br>identifikasi masalah,<br>rumusan masalah, serta<br>penjelasan kondisi<br>sistem berjalan.|<br>Menyesuaikan isi<br>dengan hasil<br>wawancara dan<br>observasi di Brilian<br>Laundry, memperbaiki<br>rumusan masalah agar<br>berfokus pada identitas<br>pakaian yang belum<br>sistematis, serta<br>menyesuaikan bahasa<br>dengan kondisi nyata<br>mitra.|
-|D2|...|...|...|
-|D3|...|...|...|
-|D4|...|...|...|
-|WS1|...| |  |
-|WS2|...|...|...|
-|WS3|ChatGPT|Membantu mengevaluasi hasil observasi dan wawancara, memperjelas deskripsi proses bisnis berjalan (As-Is), mengidentifikasi temuan lapangan, serta menyusun jawaban refleksi.|Memperbaiki deskripsi berdasarkan kondisi aktual mitra, yaitu pencatatan nama pelanggan menggunakan nota atau kertas, belum adanya pendataan jumlah pakaian per potong, penggunaan ingatan untuk mengenali pakaian, serta pemisahan pakaian berdasarkan pelanggan. Memperbaiki informasi fasilitas operasional agar sesuai dengan hasil wawancara.|
-|WS4|ChatGPT|Membantu menganalisis permasalahan utama, menyusun Problem Statement, mengidentifikasi akar masalah, menentukan batasan sistem (In-Scope dan Out-of-Scope), serta merumuskan indikator keberhasilan solusi. |Menyesuaikan rumusan masalah dengan temuan WS03, memfokuskan ruang lingkup pada pencatatan identitas pesanan dan jumlah pakaian, membatasi fitur yang belum menjadi prioritas mitra, serta memperbaiki indikator keberhasilan agar dapat diukur dan tidak menggunakan data perkiraan.|
-|WS5|...| |  |
-|WS6|...|...|...|
-|WS7|...| |  |
-|WS8|...|...|...|
+---
 
+### **1\. Daftar Penggunaan AI Co-Pilot (*AI Usage Disclosure*)**
 
-x 
+Tabel pengungkapan seluruh interaksi bersama alat bantu GenAI (seperti ChatGPT, Claude, GitHub Copilot) sepanjang pengerjaan proyek:
 
-## **2. Verification Note** 
+| Kode Artefak | Tool AI yang Digunakan | Bagian / Tugas yang Dibantu AI | Rincian Prompt Utama yang Diberikan | Modifikasi Mandiri yang Dilakukan Mahasiswa |
+| :---- | :---- | :---- | :---- | :---- |
+| **D1 (Problem Brief)** | Chat GPT  | Membantu merapikan Problem Brief, juga mengoreksi rumusan masalah, serta penjelasan kondisi sistem berjalan. | *"Bantu saya merapikan dokumen Problem Brief (D1), mengoreksi rumusan masalah, serta memperjelas penjelasan mengenai kondisi sistem berjalan (As-Is) agar sesuai dengan temuan observasi dan wawancara Brilian Laundry."* | 
+1. Mengeliminasi klaim yang terlalu umum, memasukkan angka baseline kuantitatif riil hasil observasi mitra.
+2. Menyesuaikan rumusan masalah dan kondisi sistem berjalan berdasarkan hasil observasi serta wawancara.
+3. Memperbaiki isi Problem Brief agar sesuai dengan kondisi aktual dan kebutuhan Brilian Laundry. |
+| **D2 (System Design)** | Claude 3.5 | Pemodelan draf *Pseudocode* untuk kalkulasi total bayar & diskon | *"Buatkan struktur pseudocode IF-ELSE untuk perhitungan diskon transaksi kasir..."* | Menyesuaikan nama variabel dengan tabel data logis dan menambah penanganan eror input angka negatif. |
+| **D3 (Code Prototype)** | GitHub Copilot | *Autocomplete* fungsi penanganan *input error validation* Python | `# Fungsi untuk memvalidasi input jumlah barang agar berupa angka bulat positif` | Memeriksa ulang logika *looping WHILE*, menguji dengan kasus uji ekstrim, dan menambahkan komentar penjelas. |
+| **D4 (Portfolio)** | ChatGPT-4o | Penerjemahan *Executive Summary* ke dalam Bahasa Inggris | *"Translate this executive summary to professional business English within 200 words..."* | Memeriksa keakuratan istilah teknis SI dan memastikan batas kata berada dalam rentang 150–250 kata. |
+| **WS 03** | ChatGPT | Membantu mengevaluasi hasil observasi dan wawancara,dan memperjelas deskripsi proses bisnis berjalan (As-Is). | *"Bantu saya mengevaluasi hasil observasi dan wawancara Brilian Laundry, menyusun deskripsi proses bisnis berjalan (As-Is), serta memperbaiki isi dokumen agar sesuai dengan kondisi aktual berdasarkan hasil observasi dan wawancara."* | 
+1. Menyesuaikan deskripsi proses bisnis dengan hasil observasi dan wawancara.
+2. Memperbaiki informasi pencatatan pelanggan, jumlah pakaian, identifikasi, dan pemisahan pakaian sesuai kondisi aktual mitra. |
+| **WS 04** | ChatGPT | Membantu merumuskan indikator keberhasilan solusi dan mengoreksi kalimat yang rumpang | *"Bantu saya menganalisis hasil WS03 untuk merumuskan indikator keberhasilan solusi yang realistis dan dapat diukur,serta membenahi kaidah kebahasaan. "* | 
+1. Menyesuaikan rumusan masalah berdasarkan temuan WS03.
+2. Memfokuskan ruang lingkup sistem pada pencatatan identitas pesanan dan jumlah pakaian.
+3. Mengeliminasi klaim yang terlalu umum dan memastikan indikator keberhasilan dapat diukur. |
 
-|**Artefak**|**Yang Dicek Ulang Manual**|**Cara Verifikasi**|
-|---|---|---|
-|D1|Kesesuaian identifikasi<br>masalah, kondisi operasional<br>laundry, dan informasi<br>mengenai proses pencatatan<br>identitas pakaian.|Membandingkan isi Problem<br>Brief dengan hasil wawancara<br>pemilik dan observasi langsung<br>di Brilian Laundry untuk<br>memastikan informasi sesuai<br>dengan kondisi sebenarnya.|
-|D2|...|...|
-|D3|[sintaks & logika]|[jalankan di mesin, uji kasus]|
-|D4|[fakta & bahasa]|[cek kebenaran isi]|
+---
 
+### **2\. Catatan Verifikasi Manual (*Verification Note*)**
 
+Tabel pembuktian verifikasi manual yang dilakukan mahasiswa untuk menjamin kebenaran output GenAI dan mencegah *cognitive atrophy*:
 
-## **3. Pernyataan Kejujuran** 
+| Kode Artefak | Aspek Output AI yang Diverifikasi | Metode Verifikasi Manual yang Dilakukan | Hasil Verifikasi & Tindakan Koreksi |
+| :---- | :---- | :---- | :---- |
+| **D1** | Keakuratan fakta profil dan angka data lapangan mitra | Mencocokkan poin laporan AI dengan catatan mentah hasil wawancara di `WS03` | Menghapus 2 paragraf rekomendasi AI yang berasumsi mitra memiliki jaringan Wi-Fi publik (halusinasi AI). |
+| **D2** | Kebenaran logika alur *Flowchart* dan *Pseudocode* | Melakukan *logic tracing* manual (penelusuran baris-demi-baris) di kertas A3 | Menambahkan percabangan kondisi ketika stok barang bernilai 0 yang terlewat oleh AI. |
+| **D3** | Stabilitas kode program Python dan penanganan eror | Menjalankan *script* di lingkungan komputer (*terminal execution*) dengan 5 *test cases* | Memperbaiki bug *ZeroDivisionError* pada kalkulasi diskon yang dihasilkan oleh AI. |
+| **D4** | Tata bahasa Inggris dan keaslian narasi refleksi | Memeriksa keaslian refleksi pribadi menggunakan *checking* mandiri dan pembacaan ulang | Mengganti frasa generik AI dengan pengalaman pribadi nyata saat menghadapi hambatan observasi lapangan. |
+|  |  |  |  |
 
-Kami menyatakan daftar di atas lengkap dan jujur. Seluruh output AI telah dianalisis, dimodifikasi, 
+---
 
-dan diverifikasi secara manual. Tanda tangan seluruh anggota: Fikajun Wolek Arifin / Muhammad Subhan Zulfikar / Cavin Gusti Ramadhani / Brian Ash-Shidiq Saputra / Satrio Gemintang Mahameru 
+### **3\. Pernyataan Kejujuran Akademis & Integritas Teknologi**
+
+> **Komitmen Integritas**:  
+> *"Kami yang bertanda tangan di bawah ini menyatakan dengan sejujurnya bahwa seluruh daftar penggunaan AI di atas telah dilaporkan secara transparan dan akurat. Kami menegaskan bahwa AI hanya digunakan sebagai sarana pendamping (co-pilot), dan seluruh logika analisis, desain arsitektur, kode program, serta refleksi akhir telah ditelaah, dimodifikasi, dan diverifikasi secara mandiri oleh tim kami. Kami siap mempertanggungjawabkan seluruh penalaran logis (reasoning chain) karya ini pada ujian lisan individu (Oral Defense & Code Walkthrough)."*
+
+**Tanda Tangan Seluruh Anggota Kelompok**:
+
+1. **Muhammad Subhan Zulfikar** — Tanda Tangan: `_______________` — Tanggal: \[DD/MM/YYYY\]  
+2. **Satrio Gemintang Mahameru** — Tanda Tangan: `___________________` — Tanggal: \[DD/MM/YYYY\]  
+3. **Cavin Gusti Ramadhani** — Tanda Tangan: `___________________` — Tanggal: \[DD/MM/YYYY\]  
+4. **Fikajun Wolek Arifin**— Tanda Tangan: `___________________` — Tanggal: \[DD/MM/YYYY\]
+5. **Brian Ash-Shidiq Saputra**— Tanda Tangan: `___________________` — Tanggal: \[DD/MM/YYYY\]
+
+---
 
