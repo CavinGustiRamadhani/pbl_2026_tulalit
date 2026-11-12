@@ -93,7 +93,7 @@ _(Cap / Tanda Tangan Pemilik UMKM Mitra)_
 
 Apakah tim menggunakan AI untuk membantu merumuskan metrik BPI / diagram 5 pilar SI? [ ✔ ] Ya  [ ] Tidak 
 
-_(Jika Ya, wajib melampirkan formulir_ **_TPL-07: AI Usage Disclosure & Verification Note_** _)_ . 
+**_TPL-07: AI Usage Disclosure & Verification Note_** : https://github.com/CavinGustiRamadhani/pbl_2026_tulalit/blob/main/docs/TPL-07%20%E2%80%94%20Template%20AI%20Usage%20Disclosure%20%26%20Verification%20Note.md 
 
 #### **Tanda Tangan Tim & Pengesahan Dosen** : 
 

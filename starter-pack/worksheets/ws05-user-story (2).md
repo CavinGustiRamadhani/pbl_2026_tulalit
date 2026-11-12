@@ -10,7 +10,7 @@ Mata Kuliah: **Konsep Sistem Informasi (KSI)** Kerangka Kerja: **Project-Based L
 
 - **Objek UMKM Mitra** : Brilian Laundry (Laundry) 
 
-- **Phase Lead 3 (Define)** : Cavin Gusti Ramadhani 260016064 
+- **Phase Lead 3 (Define)** : Cavin Gusti Ramadhani 2600016064 
 
 Anggota Tim : 
 
@@ -97,7 +97,7 @@ Susun kriteria penerimaan terstruktur untuk **User Story 1** (mencakup Skenario 
 
 Apakah tim menggunakan AI untuk membantu merumuskan skenario _Given-When-Then_ ? [✔] Ya  [ ] Tidak 
 
-_(Jika Ya, wajib melampirkan formulir_ **_TPL-07: AI Usage Disclosure & Verification Note_** _)_ . 
+**_TPL-07: AI Usage Disclosure & Verification Note_** : https://github.com/CavinGustiRamadhani/pbl_2026_tulalit/blob/main/docs/TPL-07%20%E2%80%94%20Template%20AI%20Usage%20Disclosure%20%26%20Verification%20Note.md
 
 **Tanda Tangan Tim & Pengesahan Dosen** : 
 
