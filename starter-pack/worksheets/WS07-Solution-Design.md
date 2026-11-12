@@ -91,7 +91,7 @@ ALUR LOGIKA: START READ nama_pelanggan, tanggal_transaksi READ berat_laundry, je
 
 Arsitektur 4 lapisan SI telah dipetakan sesuai kebutuhan Brilian Laundry. 
 
-IPO kedua fitur telah mencakup Input, Processing, Output, Storage, dan Control. Flowchart menunjukkan validasi, percabangan IF-ELSE, dan perulangan input rincian pakaian yang memiliki kondisi berhenti. Pseudocode menggunakan logika umum dan tidak bergantung pada bahasa pemrograman tertentu. TPL-07:https://github.com/CavinGustiRamadhani/pbl_2026_tulalit/blob/main/docs/ <u>TPL-07%20%E2%80%94%20Template%20AI%20Usage%20Disclosure%20%26%20Verification%20Note. md</u> 
+IPO kedua fitur telah mencakup Input, Processing, Output, Storage, dan Control. Flowchart menunjukkan validasi, percabangan IF-ELSE, dan perulangan input rincian pakaian yang memiliki kondisi berhenti. Pseudocode menggunakan logika umum dan tidak bergantung pada bahasa pemrograman tertentu. TPL-07: https://github.com/CavinGustiRamadhani/pbl_2026_tulalit/blob/main/docs/TPL-07%20%E2%80%94%20Template%20AI%20Usage%20Disclosure%20%26%20Verification%20Note.md
 
 ELSE Tanggal Pengesahan: 11/11/2026 Tanda Tangan Phase Lead 4 (Design): ____________________ Tanda Tangan Dosen Pembimbing / Coach: ____________________ ENDIF 
 
