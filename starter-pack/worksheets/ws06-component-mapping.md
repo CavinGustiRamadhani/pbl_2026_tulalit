@@ -47,9 +47,9 @@ Mata Kuliah: **Konsep Sistem Informasi (KSI)** Kerangka Kerja: **Project-Based L
 
 │ 2. HARDWARE RESOURCES (Perangkat Mesin & Media)                         │ 
 
-> │ • Perangkat Fisik Input: Keyboard dan mouse untuk memasukkan data pelanggan, pesanan, berat, jenis layanan, dan identitas pakaian. │ 
+> │ • Perangkat Fisik Input: Hp android untuk memasukkan data pelanggan, pesanan, berat, jenis layanan, dan identitas pakaian. │ 
 
-> │ • Perangkat Fisik Output: HP android untuk menampilkan data transaksi, identitas pakaian, status laundry, dan rekap operasional. │ 
+> │ • Perangkat Fisik Output: Hp android untuk menampilkan data transaksi, identitas pakaian, status laundry, dan rekap operasional. │ 
 
 - ├────────────────────────────────────────────┤ │ 3. SOFTWARE RESOURCES (Aplikasi & Prosedur Operational)                 │ │ • Aplikasi Program: Aplikasi pencacatan dan pengelolaan data Laundry berdasarkan Phyton. │ 
 
