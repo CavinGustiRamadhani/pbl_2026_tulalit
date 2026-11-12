@@ -12,12 +12,11 @@
 
 * **Nama Proyek**: Digital Problem Framing & Solution Prototype —Tini Laundry dan Kos Putri  
 * **Nama Kelompok**: Tim Tulalit
-* **Anggota Tim**:  
-  1. Muhammad Subhan Zulfikar / 2600016057  
-  2. Satrio Gemintang Mahameru / 2600016061  
-  3. Cavin Gusti Ramadhani / 2600016064  
-  4. Fikajun Wolek Arifin / 2638016029  
-  5. Brian Ash-Shidiq Saputra / 2600016083
+* **Anggota Tim**:  1. Muhammad Subhan Zulfikar / 2600016057  
+                    2. Satrio Gemintang Mahameru / 2600016061  
+                    3. Cavin Gusti Ramadhani / 2600016064  
+                    4. Fikajun Wolek Arifin / 2638016029  
+                    5. Brian Ash-Shidiq Saputra / 2600016083
 * **Tanggal Pelaporan**: 12/10/2026
 
 ---
@@ -28,20 +27,12 @@ Tabel pengungkapan seluruh interaksi bersama alat bantu GenAI (seperti ChatGPT, 
 
 | Kode Artefak | Tool AI yang Digunakan | Bagian / Tugas yang Dibantu AI | Rincian Prompt Utama yang Diberikan | Modifikasi Mandiri yang Dilakukan Mahasiswa |
 | :---- | :---- | :---- | :---- | :---- |
-| **D1 (Problem Brief)** | Chat GPT  | Membantu merapikan Problem Brief, juga mengoreksi rumusan masalah, serta penjelasan kondisi sistem berjalan. | *"Bantu saya merapikan dokumen Problem Brief (D1), mengoreksi rumusan masalah, serta memperjelas penjelasan mengenai kondisi sistem berjalan (As-Is) agar sesuai dengan temuan observasi dan wawancara Brilian Laundry."* | 
-1. Mengeliminasi klaim yang terlalu umum, memasukkan angka baseline kuantitatif riil hasil observasi mitra.
-2. Menyesuaikan rumusan masalah dan kondisi sistem berjalan berdasarkan hasil observasi serta wawancara.
-3. Memperbaiki isi Problem Brief agar sesuai dengan kondisi aktual dan kebutuhan Brilian Laundry. |
+| **D1 (Problem Brief)** | Chat GPT  | Membantu merapikan Problem Brief, juga mengoreksi rumusan masalah, serta penjelasan kondisi sistem berjalan. | *"Bantu saya merapikan dokumen Problem Brief (D1), mengoreksi rumusan masalah, serta memperjelas penjelasan mengenai kondisi sistem berjalan (As-Is) agar sesuai dengan temuan observasi dan wawancara Brilian Laundry."* | Mengeliminasi klaim yang terlalu umum, memasukkan angka baseline kuantitatif riil hasil observasi mitra, Menyesuaikan rumusan masalah dan kondisi sistem berjalan berdasarkan hasil observasi serta wawancara, Memperbaiki isi Problem Brief agar sesuai dengan kondisi aktual dan kebutuhan Brilian Laundry. |
 | **D2 (System Design)** | Claude 3.5 | Pemodelan draf *Pseudocode* untuk kalkulasi total bayar & diskon | *"Buatkan struktur pseudocode IF-ELSE untuk perhitungan diskon transaksi kasir..."* | Menyesuaikan nama variabel dengan tabel data logis dan menambah penanganan eror input angka negatif. |
 | **D3 (Code Prototype)** | GitHub Copilot | *Autocomplete* fungsi penanganan *input error validation* Python | `# Fungsi untuk memvalidasi input jumlah barang agar berupa angka bulat positif` | Memeriksa ulang logika *looping WHILE*, menguji dengan kasus uji ekstrim, dan menambahkan komentar penjelas. |
 | **D4 (Portfolio)** | ChatGPT-4o | Penerjemahan *Executive Summary* ke dalam Bahasa Inggris | *"Translate this executive summary to professional business English within 200 words..."* | Memeriksa keakuratan istilah teknis SI dan memastikan batas kata berada dalam rentang 150–250 kata. |
-| **WS 03** | ChatGPT | Membantu mengevaluasi hasil observasi dan wawancara,dan memperjelas deskripsi proses bisnis berjalan (As-Is). | *"Bantu saya mengevaluasi hasil observasi dan wawancara Brilian Laundry, menyusun deskripsi proses bisnis berjalan (As-Is), serta memperbaiki isi dokumen agar sesuai dengan kondisi aktual berdasarkan hasil observasi dan wawancara."* | 
-1. Menyesuaikan deskripsi proses bisnis dengan hasil observasi dan wawancara.
-2. Memperbaiki informasi pencatatan pelanggan, jumlah pakaian, identifikasi, dan pemisahan pakaian sesuai kondisi aktual mitra. |
-| **WS 04** | ChatGPT | Membantu merumuskan indikator keberhasilan solusi dan mengoreksi kalimat yang rumpang | *"Bantu saya menganalisis hasil WS03 untuk merumuskan indikator keberhasilan solusi yang realistis dan dapat diukur,serta membenahi kaidah kebahasaan. "* | 
-1. Menyesuaikan rumusan masalah berdasarkan temuan WS03.
-2. Memfokuskan ruang lingkup sistem pada pencatatan identitas pesanan dan jumlah pakaian.
-3. Mengeliminasi klaim yang terlalu umum dan memastikan indikator keberhasilan dapat diukur. |
+| **WS 03** | ChatGPT | Membantu mengevaluasi hasil observasi dan wawancara,dan memperjelas deskripsi proses bisnis berjalan (As-Is). | *"Bantu saya mengevaluasi hasil observasi dan wawancara Brilian Laundry, menyusun deskripsi proses bisnis berjalan (As-Is), serta memperbaiki isi dokumen agar sesuai dengan kondisi aktual berdasarkan hasil observasi dan wawancara."* | Menyesuaikan deskripsi proses bisnis dengan hasil observasi dan wawancara, Memperbaiki informasi pencatatan pelanggan, jumlah pakaian, identifikasi, dan pemisahan pakaian sesuai kondisi aktual mitra. | 
+| **WS 04** | ChatGPT | Membantu merumuskan indikator keberhasilan solusi dan mengoreksi kalimat yang rumpang | *"Bantu saya menganalisis hasil WS03 untuk merumuskan indikator keberhasilan solusi yang realistis dan dapat diukur,serta membenahi kaidah kebahasaan. "* | Menyesuaikan rumusan masalah berdasarkan temuan WS03, Memfokuskan ruang lingkup sistem pada pencatatan identitas pesanan dan jumlah pakaian, Mengeliminasi klaim yang terlalu umum dan memastikan indikator keberhasilan dapat diukur. |
 
 ---
 
