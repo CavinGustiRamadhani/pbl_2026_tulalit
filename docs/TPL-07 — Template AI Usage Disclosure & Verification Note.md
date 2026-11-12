@@ -34,7 +34,7 @@ Tabel pengungkapan seluruh interaksi bersama alat bantu GenAI (seperti ChatGPT, 
 | **WS03** | ChatGPT | Membantu mengevaluasi hasil observasi dan wawancara,dan memperjelas deskripsi proses bisnis berjalan (As-Is). | *"Bantu saya mengevaluasi hasil observasi dan wawancara Brilian Laundry, menyusun deskripsi proses bisnis berjalan (As-Is), serta memperbaiki isi dokumen agar sesuai dengan kondisi aktual berdasarkan hasil observasi dan wawancara."* | Menyesuaikan deskripsi proses bisnis dengan hasil observasi dan wawancara, Memperbaiki informasi pencatatan pelanggan, jumlah pakaian, identifikasi, dan pemisahan pakaian sesuai kondisi aktual mitra. | 
 | **WS04** | ChatGPT | Membantu merumuskan indikator keberhasilan solusi dan mengoreksi kalimat yang rumpang | *"Bantu saya menganalisis hasil WS03 untuk merumuskan indikator keberhasilan solusi yang realistis dan dapat diukur,serta membenahi kaidah kebahasaan. "* | Menyesuaikan rumusan masalah berdasarkan temuan WS03, Memfokuskan ruang lingkup sistem pada pencatatan identitas pesanan dan jumlah pakaian, Mengeliminasi klaim yang terlalu umum dan memastikan indikator keberhasilan dapat diukur. |
 | **WS05** | ChatGPT | Membantu mengoreksi User Story dan Given-WhenThen | *"Bantu saya mengoreksi 3 user story yang sudah saya buat berdasarkan permasalahan pada D1 dan ws04 serta koreksi given-when-then"* | Menyesuaikan User Story dengan kebutuhan pemilik laundry serta memeriksa skenario penerimaan agar sesuai dengan fungsi sistem yang direncanakan. |
-| **WS07** | ChatGPT | ..... | *"......."* | ..... |
+| **WS07** | ChatGPT | Pemeriksaan dan perbaikan isi dokumen | *"	Meminta koreksi terhadap isi WS07 agar lebih jelas dan konsisten"* | Memilih dan memperbaiki bagian yang sesuai dengan hasil diskusi kelompok |
 
 ---
 
@@ -51,7 +51,7 @@ Tabel pembuktian verifikasi manual yang dilakukan mahasiswa untuk menjamin keben
 | **WS03** | Keakuratan deskripsi proses bisnis As-Is | Membandingkan hasil AI dengan catatan observasi dan wawancara langsung dengan pemilik Brilian Laundry | Mengoreksi informasi pencatatan pelanggan, jumlah pakaian, identifikasi pakaian, dan fasilitas operasional sesuai kondisi aktual. |
 | **WS04** | Ketepatan indikator keberhasilan solusi | Memeriksa kesesuaian hasil analisis dengan temuan WS03 dan kebutuhan pemilik Brilian Laundry | Menyesuaikan indikator keberhasilan agar realistis dan terukur. |
 | **WS05** | Kesesuaian User Story dan Acceptance Criteria dengan kebutuhan pemilik Brilian Laundry | Memeriksa kesesuaian User Story dan skenario Given-When-Then dengan permasalahan pada D1 dan WS04 serta hasil konfirmasi mitra | Menyesuaikan kebutuhan fungsional dan skenario penerimaan agar sesuai dengan kebutuhan pemilik laundry. |
-| **WS07** | ..... | ...... | ........ |
+| **WS07** | IPO dan validasi data | Memeriksa kesesuaian input, proses, output, penyimpanan, dan penanganan kesalahan | Memastikan setiap bagian sudah sesuai dengan fitur yang dirancang |
 |  |  |  |  |
 
 ---
