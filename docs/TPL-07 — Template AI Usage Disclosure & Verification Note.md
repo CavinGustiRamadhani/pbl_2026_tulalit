@@ -46,8 +46,8 @@ Tabel pembuktian verifikasi manual yang dilakukan mahasiswa untuk menjamin keben
 | :---- | :---- | :---- | :---- |
 | **D1** | Ketepatan rumusan masalah dan penjelasan kondisi sistem berjalan | Mencocokkan isi Problem Brief dengan hasil observasi dan wawancara Brilian Laundry pada `WS03` | Memperbaiki rumusan masalah dan deskripsi kondisi sistem berjalan agar sesuai dengan temuan aktual mitra. |
 | **D2** | Isi D2 apakah sama dengan WS05-07, angka metrik, cakupan fitur | Dicek ulang satu per satu dengan Worksheet yang terkait dengan D2 dan hasil persetujuan Bu Erna | Isinya sudah cocok sesuai dengan Worksheet, dan teks template yang tidak relevan kami tidak pakai |
-| **D3** | Stabilitas kode program Python dan penanganan eror | Menjalankan *script* di lingkungan komputer (*terminal execution*) dengan 5 *test cases* | Memperbaiki bug *ZeroDivisionError* pada kalkulasi diskon yang dihasilkan oleh AI. |
-| **D4** | Tata bahasa Inggris dan keaslian narasi refleksi | Memeriksa keaslian refleksi pribadi menggunakan *checking* mandiri dan pembacaan ulang | Mengganti frasa generik AI dengan pengalaman pribadi nyata saat menghadapi hambatan observasi lapangan. |
+| **D3** | ...... | ...... | ...... |
+| **D4** | ....... | ........ | ...... |
 | **WS03** | Keakuratan deskripsi proses bisnis As-Is | Membandingkan hasil AI dengan catatan observasi dan wawancara langsung dengan pemilik Brilian Laundry | Mengoreksi informasi pencatatan pelanggan, jumlah pakaian, identifikasi pakaian, dan fasilitas operasional sesuai kondisi aktual. |
 | **WS04** | Ketepatan indikator keberhasilan solusi | Memeriksa kesesuaian hasil analisis dengan temuan WS03 dan kebutuhan pemilik Brilian Laundry | Menyesuaikan indikator keberhasilan agar realistis dan terukur. |
 | **WS05** | Kesesuaian User Story dan Acceptance Criteria dengan kebutuhan pemilik Brilian Laundry | Memeriksa kesesuaian User Story dan skenario Given-When-Then dengan permasalahan pada D1 dan WS04 serta hasil konfirmasi mitra | Menyesuaikan kebutuhan fungsional dan skenario penerimaan agar sesuai dengan kebutuhan pemilik laundry. |
