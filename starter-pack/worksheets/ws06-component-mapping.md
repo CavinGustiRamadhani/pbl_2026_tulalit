@@ -49,7 +49,7 @@ Mata Kuliah: **Konsep Sistem Informasi (KSI)** Kerangka Kerja: **Project-Based L
 
 > │ • Perangkat Fisik Input: Keyboard dan mouse untuk memasukkan data pelanggan, pesanan, berat, jenis layanan, dan identitas pakaian. │ 
 
-> │ • Perangkat Fisik Output: Monitor laptop/PC untuk menampilkan data transaksi, identitas pakaian, status laundry, dan rekap operasional. │ 
+> │ • Perangkat Fisik Output: HP android untuk menampilkan data transaksi, identitas pakaian, status laundry, dan rekap operasional. │ 
 
 - ├────────────────────────────────────────────┤ │ 3. SOFTWARE RESOURCES (Aplikasi & Prosedur Operational)                 │ │ • Aplikasi Program: Aplikasi pencacatan dan pengelolaan data Laundry berdasarkan Phyton. │ 
 
@@ -69,7 +69,7 @@ status pengerjaan. │
 
 │ 5. NETWORK RESOURCES (Jaringan Communication & Media)                   │ 
 
-- │ • Konektivitas: Sistem dijalankan secara lokal pada laptop/PC tanpa memerlukan koneksi internet. │ 
+- │ • Konektivitas: Sistem dijalankan secara lokal pada HP android tanpa memerlukan koneksi internet. │ 
 
 └────────────────────────────────────────────┘ 
 
