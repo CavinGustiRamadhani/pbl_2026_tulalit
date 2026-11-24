@@ -76,7 +76,7 @@ Fitur Fungsional Utama 2: Pemantauan Status Laundry dan Rekap Operasional Harian
 
 _Petunjuk: Gambarkan diagram alir terstruktur menggunakan simbol standar (Persegi Panjang = Proses, Belah Ketupat = Keputusan IF-ELSE, Jajar Genjang = Input/Output, Oval = Start/End). Lampirkan hasil gambaran digital/foto kertas A3 di bawah ini._ 
 
-
+![Diagram Alir Logika Program](../assets/Flowchart%20PBL.jpeg)
 
 <!-- Start of picture text -->
 Pemilik memasukkan data pelanggan dan pesanan:<br>Tanggal, nama pelanggan, berat, layanan, estimasi selesai<br>Sistem memeriksa kelengkapan data pesanan<br>Data lengkap? “DataTampilkantidak valid”pesan<br>Ya<br>Masukkan jenis pakaian, warna, dan jumlah<br>untuk setMas i ap jenish ada jenis pakaian esTambahkan rincian<br>pakaian lain? pakaian berikutnya<br>Tidak<br>Sistem memvalidasi jumlah pesanan<br>(angka bulat dan lebih dari 0)<br>F Tidak Tampilkan pesan<br>Semua jumlah valid?a “Jumlah tidak sesuai”<br>Ya<br>Simpan data pelanggan, transaksi,<br>dan rincian pakaian ke basis data<br>Tampilkan konfirmasi / ringkasan pesanan<br><!-- End of picture text -->
